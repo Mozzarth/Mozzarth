@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Moises Caicedo</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozzarth&label=Profile%20views&color=0e75b6&style=flat" alt="mozzarth" /> </p>
+<img align="right" width=400 src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" alt="mozzarth" />
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozzarth" alt="mozzarth" /></a> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozzarth&label=Profile%20views&color=0e75b6&style=flat" alt="mozzarth" /> </p>
 
 - 🌱 I’m currently learning **GO,GCP,Architecture DDD**
 
 - 💬 Ask me about **NodeJS, Angular,**
 
 - 📫 How to reach me **moisescaicedo15@gmail.com**
+
+- 🔭 I’m currently working on [chiper](https://growth.chiper.co/co/stores)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
